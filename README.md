@@ -95,5 +95,5 @@ A project presentation summarizes the complete process — from data collection 
 ## Author
 **Mahmoud Attwany**  
 Data Science Professional | IBM Certified  
-GitHub: [your-github-link]  
+GitHub: [[Mahmoud Attwany Github]](https://github.com/Mahmoud-Attwany)  
 LinkedIn: [[Mahmoud Attwany LinkedIn](https://www.linkedin.com/in/mahmoud-attwany/)]
