@@ -57,32 +57,20 @@ This analysis helps potential competitors estimate fair bids for commercial laun
 ## Repository Structure
 Space-X-Falcon-9-First-Stage-Landing-Prediction/
 
-│
-├── README.md
-├── requirements.txt
-├── data/
-│ ├── raw/
-│ └── processed/
-├── notebooks/
-│ ├── 1_web_scraping_wikipedia.ipynb
-│ ├── 2_data_collection_spacex_api.ipynb
-│ ├── 3_data_wrangling_labeling.ipynb
-│ ├── 4_eda_sql.ipynb
-│ ├── 5_eda_visualization_feature_engineering.ipynb
-│ ├── 6_launch_sites_analysis_folium.ipynb
-│ ├── 7_machine_learning_prediction.ipynb
-│ └── dashboard_code.ipynb
-├── src/
-│ ├── data_collection.py
-│ ├── data_cleaning.py
-│ ├── feature_engineering.py
-│ ├── model_training.py
-│ └── dashboard_app.py
-├── outputs/
-│ ├── figures/
-│ ├── models/
-│ └── dashboard/
-└── LICENSE
+
+ README.md
+data/
+  raw/
+  processed/
+notebooks/
+ 1_web_scraping_wikipedia.ipynb
+ 2_data_collection_spacex_api.ipynb
+ 3_data_wrangling_labeling.ipynb
+ 4_eda_sql.ipynb
+ 5_eda_visualization_feature_engineering.ipynb
+ 6_launch_sites_analysis_folium.ipynb
+ 7_machine_learning_prediction.ipynb
+  dashboard_code.ipynb
 
 
 ---
