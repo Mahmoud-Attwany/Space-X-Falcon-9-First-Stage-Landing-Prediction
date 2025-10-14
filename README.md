@@ -88,7 +88,7 @@ Space-X-Falcon-9-First-Stage-Landing-Prediction/
 ---
 
 ## Presentation
-A project presentation summarizes the complete process — from data collection to final prediction and dashboard insights.
+[A project presentation](https://github.com/user-attachments/files/22897035/ds-capstone-Mahmoud.Attwany.pdf) summarizes the complete process — from data collection to final prediction and dashboard insights.
 
 ---
 
